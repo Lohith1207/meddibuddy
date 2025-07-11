@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1002651899166",
+    "project_id": "meddibuddy-5f0d6",
+    "storage_bucket": "meddibuddy-5f0d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002651899166:android:a0ddb4d289b1ec101f650f",
+        "android_client_info": {
+          "package_name": "com.example.amma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj03UuQ-QhiBDACnrZXeDtDxCrQjI3WgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
